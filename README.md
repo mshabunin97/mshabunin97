@@ -45,6 +45,6 @@
 
 ### 💻 Codewars:
 
-![codewars](https://www.codewars.com/users/Kururugurugi/large)
+[Codewars](https://www.codewars.com/users/Kururugurugi)
 
   <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mshabunin97&" alt="mshabunin97" /></p
