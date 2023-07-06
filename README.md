@@ -10,11 +10,9 @@
 Я ищу возможность работать в динамичной команде, где могу внести свой вклад и продолжить свое профессиональное развитие в сфере веб-разработки.
 
 
-- :telescope: В данный момент открыт к предложениям
+- В данный момент открыт к предложениям :telescope: 
 
-- :seedling: 
-
-- :zap: 
+- Мне нравится играть на пианино, читать книги и путешествовать :zap: 
 
 - :mailbox: Как связаться со мной: [![Telegram Badge](https://img.shields.io/badge/-Kurugurugi-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/Kurugurugi) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:mshabunin97@gmail.com)
 
