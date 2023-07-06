@@ -1,4 +1,4 @@
-Привет ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)Меня зовут Макс
+<h1>Привет ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)Меня зовут Макс</h1>
 
 ---
 
@@ -8,13 +8,13 @@
 Я ищу возможность работать в динамичной команде, где я могу внести свой вклад и продолжить свое профессиональное развитие в сфере веб-разработки.
 
 
-- :telescope: Участвовал в бассейне Школы 21 от Сбера.
+- :telescope: 
 
-- :seedling: Завершил курсы по веб-разработке Яндекс Практикум!
+- :seedling: 
 
-- :zap: Являюсь старшим студентом на курсе Веб-разработки Яндекс Практикум.
+- :zap: 
 
-- :mailbox: Как связаться со мной: [![Telegram Badge](https://img.shields.io/badge/-filimonovalexey-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/Kurugurugi) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:mshabunin97@gmail.com)
+- :mailbox: Как связаться со мной: [![Telegram Badge](https://img.shields.io/badge/-Kurugurugi-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/Kurugurugi) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:mshabunin97@gmail.com)
 
 ---
 
