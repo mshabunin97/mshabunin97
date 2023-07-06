@@ -4,7 +4,7 @@
 
 ### :man_technologist: Обо мне:
 
-Я начинающий веб-разработчик<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30px">. Мой путь в it начался с января 2023 года. Я пробовал себя в нескольких направлениях: изучал Python и Qa, но больше всего меня зацепила веб-разработка! Основной фокус обучения был на языках программирования HTML, CSS и JavaScript. Также я освоил популярную  библиотеку React. Ознакомиться с моими проектами можно в разделе "Pinned" ниже. Там я закрепил несколько личных проектов, которые демонстрируют мои навыки в веб-разработке.
+Я начинающий веб-разработчик<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30px">. Мой путь в it начался с января 2023 года. Я пробовал себя в нескольких направлениях: изучал Python и Qa, но больше всего меня зацепила веб-разработка! Основной фокус обучения был на HTML, CSS и JavaScript. Также я освоил популярную  библиотеку React. Ознакомиться с моими проектами можно в разделе "Pinned" ниже. Там я закрепил несколько личных проектов, которые демонстрируют мои навыки в веб-разработке.
 <br>
 <br>
 Я ищу возможность работать в динамичной команде, где могу внести свой вклад и продолжить свое профессиональное развитие в сфере веб-разработки.
@@ -22,7 +22,7 @@
 ### 🤝 Социальные сети:
 
   <div id="badges">
-    <a href="https://www.linkedin.com/in/%D0%B0%D0%BB%D0%B5%D0%BA%D1%81%D0%B5%D0%B9-%D1%84%D0%B8%D0%BB%D0%B8%D0%BC%D0%BE%D0%BD%D0%BE%D0%B2-2a0b07257/" target="_blank">
+    <a href="#" target="_blank">
       <img src="https://cdn-icons-png.flaticon.com/512/2504/2504799.png" width="40" height="40" alt="linkedin" />
     </a>
     <a href="https://t.me/Kurugurugi" target="_blank">
@@ -41,7 +41,6 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" title="css" alt="css" width="40" height="40"/>&nbsp
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="javascript" alt="javascript" width="40" height="40"/>&nbsp
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="reactjs" alt="reactjs" width="40" height="40"/>&nbsp
-  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" title="nodejs" alt="nodejs" width="40" height="40"/>&nbsp
   <img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" title="sass/scss" alt="sass/scss" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/webpack/webpack-original.svg" title="webpack" alt="webpack" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-plain.svg" title="tailwindcss" alt="tailwindcss" width="40" height="40"/>&nbsp;
