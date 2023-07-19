@@ -4,25 +4,25 @@
 
 ### :man_technologist: Обо мне:
 
-Я начинающий веб-разработчик<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30px">. Мой путь в it начался с января 2023 года. Я пробовал себя в нескольких направлениях: изучал Python и Qa, но больше всего меня зацепила веб-разработка! Основной фокус обучения был на HTML, CSS и JavaScript. Также я освоил популярную  библиотеку React. Ознакомиться с моими проектами можно в разделе "Pinned" ниже. Там я закрепил несколько личных проектов, которые демонстрируют мои навыки в веб-разработке.
+I am a beginner web developer<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30px">. My journey in IT started in January 2023. I explored several areas, including Python and QA, but web development caught my attention the most! My main focus of learning has been on HTML, CSS, and JavaScript. I have also mastered the popular library React. You can check out my projects in the "Pinned" section below. There, I have showcased some personal projects that demonstrate my skills in web development.
 <br>
 <br>
-Я ищу возможность работать в динамичной команде, где могу внести свой вклад и продолжить профессиональное развитие в сфере веб-разработки.
+I am seeking an opportunity to work in a dynamic team where I can contribute and continue my professional growth in the field of web development.
 
 
-- В данный момент открыт к предложениям :telescope: 
+- I am currently open to new offers. :telescope: 
 
-- Я играю на пианино, разбираюсь в музыке, занимаюсь спортом и люблю читать книги ⚡️
+- I enjoy playing the piano, have knowledge in music, stay active in sports, and love reading books. ⚡️
 
-- Как связаться со мной: [![Telegram Badge](https://img.shields.io/badge/-Kurugurugi-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/Kurugurugi) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:mshabunin97@gmail.com)
+- You can contact me : [![Telegram Badge](https://img.shields.io/badge/-Kurugurugi-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/Kurugurugi) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:mshabunin97@gmail.com)
 
 ---
 
 
-### 🤝 Социальные сети:
+### 🤝 Social networks:
 
   <div id="badges">
-    <a href="#" target="_blank">
+    <a href="https://www.linkedin.com/in/max-shabunin-095a01283/" target="_blank">
       <img src="https://cdn-icons-png.flaticon.com/512/2504/2504799.png" width="40" height="40" alt="linkedin" />
     </a>
     <a href="https://t.me/Kurugurugi" target="_blank">
@@ -33,7 +33,7 @@
 
   ---
 
-### 💻 Технологии:
+### 💻 Technologies:
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="git" alt="git" width="40" height="40"/>&nbsp
@@ -49,7 +49,7 @@
 
 ---
 
-### 🛠 Инструменты:
+### 🛠 Tools:
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-plain.svg" title="photoshop" alt="photoshop" width="40" height="40"/>&nbsp;
