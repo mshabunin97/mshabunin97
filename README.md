@@ -1,8 +1,8 @@
-<h1 align="left">Привет 👋, меня зовут Макс!</h1>
+<h1 align="left">Hi 👋, my name is Max!</h1>
 
 ---
 
-### :man_technologist: Обо мне:
+### :man_technologist: About Me:
 
 I am a beginner web developer<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30px">. My journey in IT started in January 2023. I explored several areas, including Python and QA, but web development caught my attention the most! My main focus of learning has been on HTML, CSS, and JavaScript. I have also mastered the popular library React. You can check out my projects in the "Pinned" section below. There, I have showcased some personal projects that demonstrate my skills in web development.
 <br>
