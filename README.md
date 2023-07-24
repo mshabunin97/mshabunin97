@@ -14,7 +14,7 @@ I am seeking an opportunity to work in a dynamic team where I can contribute and
 
 - I enjoy playing the piano, have knowledge in music, stay active in sports, and love reading books. ⚡️
 
-- You can contact me : [![Telegram Badge](https://img.shields.io/badge/-Kurugurugi-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/Kurugurugi) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:mshabunin97@gmail.com)
+- You can contact me : [![Telegram Badge](https://img.shields.io/badge/-Kurugurugi-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/Max_Shabunin) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:mshabunin97@gmail.com)
 
 ---
 
@@ -22,10 +22,10 @@ I am seeking an opportunity to work in a dynamic team where I can contribute and
 ### 🤝 Social networks:
 
   <div id="badges">
-    <a href="https://www.linkedin.com/in/max-shabunin-095a01283/" target="_blank">
+    <a href="https://www.linkedin.com/in/max-shabunin/" target="_blank">
       <img src="https://cdn-icons-png.flaticon.com/512/2504/2504799.png" width="40" height="40" alt="linkedin" />
     </a>
-    <a href="https://t.me/Kurugurugi" target="_blank">
+    <a href="https://t.me/Max_Shabunin" target="_blank">
       <img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" width="40" height="40" alt="telegram group" />
     </a>
 
