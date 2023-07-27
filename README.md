@@ -1,4 +1,4 @@
-<h1 align="left">Hi 👋, my name is Max!</h1>
+<h1 align="left">Hi 👋, my name is <a href="https://maxim-shabunin.netlify.app/" target="_blank">Max!</a></h1>
 
 ---
 
@@ -9,6 +9,9 @@ I am a beginner web developer<img src="https://media.giphy.com/media/WUlplcMpOCE
 <br>
 I am seeking an opportunity to work in a dynamic team where I can contribute and continue my professional growth in the field of web development.
 
+- My web-site <a href="https://maxim-shabunin.netlify.app/" target="_blank">
+  <img alt="My web-site" src="https://img.shields.io/badge/maxim-shabunin.netlify.app-FF6719?style=for-the-badge&logo=substack&logoColor=white">
+</a>
 
 - I am currently open to new offers. :telescope: 
 
