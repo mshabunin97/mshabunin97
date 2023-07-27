@@ -17,7 +17,7 @@ I am seeking an opportunity to work in a dynamic team where I can contribute and
 
 - I enjoy playing the piano, have knowledge in music, stay active in sports, and love reading books. ⚡️
 
-- You can contact me : [![Telegram Badge](https://img.shields.io/badge/-Kurugurugi-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/Max_Shabunin) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:mshabunin97@gmail.com)
+- You can contact me : [![Telegram Badge](https://img.shields.io/badge/-Max_Shabunin-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/Max_Shabunin) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:mshabunin97@gmail.com)
 
 ---
 
