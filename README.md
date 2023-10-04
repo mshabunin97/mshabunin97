@@ -2,26 +2,6 @@
 
 ---
 
-### :man_technologist: About Me:
-
-I am a web developer<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30px">. My journey in IT started in 2022. I explored several areas, including Python and QA, but web development caught my attention the most! My main focus of learning has been on HTML, CSS, and JavaScript. I have also mastered the popular library React. You can check out my projects in the "Pinned" section below. There, I have showcased some personal projects that demonstrate my skills in web development.
-<br>
-<br>
-I am seeking an opportunity to work in a dynamic team where I can contribute and continue my professional growth in the field of web development.
-
-- <a href="https://maxim-shabunin.netlify.app/" target="_blank">
-  <img alt="My web-site" src="https://img.shields.io/badge/maximshabunin.netlify.app-FF6719?style=for-the-badge&logo=substack&logoColor=white">
-</a>
-
-- I am currently open to new offers. :telescope: 
-
-- I enjoy playing the piano, have knowledge in music, stay active in sports, and love reading books. ⚡️
-
-- You can contact me : [![Telegram Badge](https://img.shields.io/badge/-Max_Shabunin-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/Max_Shabunin) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:mshabunin97@gmail.com)
-
----
-
-
 ### 🤝 Social networks:
 
   <div id="badges">
