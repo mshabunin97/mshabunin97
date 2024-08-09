@@ -31,6 +31,8 @@
 ![JEST](https://img.shields.io/badge/-JEST-343942?style=for-the-badge&logo=jest)
 ---
 
+## ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api/?username=mshabunin97\&show_icons=true\&title_color=fff\&icon_color=FD8AC9\&text_color=F7F7F7\&bg_color=343942)
+
 ### 📫 Как со мной связаться:
 <ul>
   <li>📧 Email: <a href="mailto:mshabunin97@gmail.com">mshabunin97@gmail.com</a></li>
