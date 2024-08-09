@@ -1,39 +1,42 @@
-<h1 align="left">Hi 👋, my name is <a href="https://maxim-shabunin.netlify.app/" target="_blank">Max!</a></h1>
+<h1 align="center">Привет, я **Макс**!</h1>
+
+<p align="center">
+Я **web-разработчик**, моя страсть — создавать интуитивно понятные и динамичные пользовательские интерфейсы. 
+</p>
+
+<p align="center">
+Я всегда в поиске новых вызовов и стремлюсь совершенствовать свои навыки, чтобы создавать современные и высококачественные веб-приложения.
+</p>
+---
+
+### 💡 Интересы:
+<ul>
+  <li>Изучение новых фреймворков и библиотек для расширения своих технических знаний и навыков.</li>
+  <li>Участие в open-source проектах для вклада в сообщество и обмена опытом с другими разработчиками.</li>
+  <li>Постоянное самообразование через чтение статей, просмотр вебинаров и участие в курсах по развитию навыков в области frontend-разработки.</li>
+</ul>
+
+### 🛠️ Технические навыки:
+![ReactJs](https://img.shields.io/badge/-ReactJs-343942?style=for-the-badge&logo=React)
+![Redux](https://img.shields.io/badge/-Redux-343942?style=for-the-badge&logo=Redux)
+![NEXT](https://img.shields.io/badge/-NEXT-343942?style=for-the-badge&logo=vercel)
+![RQUERY](https://img.shields.io/badge/-RQUERY-343942?style=for-the-badge&logo=reactquery)
+![APOLLO](https://img.shields.io/badge/-APOLLO-343942?style=for-the-badge&logo=apollographql)
+![GRAPHQL](https://img.shields.io/badge/-GRAPHQL-343942?style=for-the-badge&logo=graphql)
+![JavaScript](https://img.shields.io/badge/-Vanilla-343942?style=for-the-badge&logo=JavaScript)
+![TypeScript](https://img.shields.io/badge/-TypeScript-343942?style=for-the-badge&logo=TypeScript)
+![HTML](https://img.shields.io/badge/-HTML-343942?style=for-the-badge&logo=html5)
+![SCSS](https://img.shields.io/badge/-SCSS-343942?style=for-the-badge&logo=sass)
+![RTKQUERY](https://img.shields.io/badge/-RTK_QUERY-343942?style=for-the-badge&logo=redux)
+![WEBPACK](https://img.shields.io/badge/-WEBPACK-343942?style=for-the-badge&logo=webpack)
 
 ---
 
-### 💻 Technologies:
-
-<div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="git" alt="git" width="40" height="40"/>&nbsp
-  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="html5" alt="html5" width="40" height="40"/>&nbsp
-  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" title="css" alt="css" width="40" height="40"/>&nbsp
-  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="javascript" alt="javascript" width="40" height="40"/>&nbsp
-  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="reactjs" alt="reactjs" width="40" height="40"/>&nbsp
-  <img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" title="sass/scss" alt="sass/scss" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/webpack/webpack-original.svg" title="webpack" alt="webpack" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-plain.svg" title="tailwindcss" alt="tailwindcss" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="redux" alt="redux" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="TypeScript" alt="TypeScript" width="40" height="40"/>
+### 📫 Как со мной связаться:
+<ul>
+  <li>Email: <a href="mailto:mshabunin97@gmail.com">mshabunin97@gmail.com</a> </li>
+  <li>Telegram: <a href='https://t.me/Max_Shabunin'>@Max_Shabunin</a></li>
+</ul>
 
 
-</div>
-
----
-
-### 🛠 Tools:
-
-<div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-plain.svg" title="photoshop" alt="photoshop" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/canva/canva-original.svg" title="canva" alt="canva" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="figma" alt="figma" width="40" height="40"/>&nbsp;
-</div>
-
----
-
-### 💻 Codewars:
-
-![Codewars](https://github.r2v.ch/codewars?user=Kururugurugi)
-
----
-  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mshabunin97&" alt="mshabunin97" /></p
+##
