@@ -2,8 +2,6 @@
 
 #### 👋 Привет! Я — _**Макс**_, увлеченный _**web-разработчик**_. Моя главная цель — создавать интуитивно понятные и динамичные пользовательские интерфейсы, которые не только привлекают внимание, но и обеспечивают высокую производительность и комфорт в использовании.
 
----
-
 ### 💡 Интересы:
 <ul>
   <li>🚀 Постоянное исследование новых технологий и инструментов для повышения своей квалификации и расширения технического кругозора.</li>
@@ -30,7 +28,6 @@
 ![Node.js](https://img.shields.io/badge/-Node.js-343942?style=for-the-badge&logo=Node.js)
 ![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-343942?style=for-the-badge&logo=tailwindcss)
 ![AntD](https://img.shields.io/badge/-AntD-343942?style=for-the-badge&logo=antdesign)
-![Styled Components](https://img.shields.io/badge/-Styled_Components-343942?style=for-the-badge&logo=styled-components)
 ---
 
 ## ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api/?username=mshabunin97\&show_icons=true\&title_color=fff\&icon_color=FD8AC9\&text_color=F7F7F7\&bg_color=343942)
