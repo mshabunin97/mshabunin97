@@ -24,7 +24,10 @@
 ![RTKQUERY](https://img.shields.io/badge/-RTK_QUERY-343942?style=for-the-badge&logo=redux)
 ![WEBPACK](https://img.shields.io/badge/-WEBPACK-343942?style=for-the-badge&logo=webpack)
 ![JEST](https://img.shields.io/badge/-JEST-343942?style=for-the-badge&logo=jest)
-![NODEJS](https://img.shields.io/badge/-NODEJS-343942?style=for-the-badge&logo=NODEJS)
+![Node.js](https://img.shields.io/badge/-Node.js-343942?style=for-the-badge&logo=Node.js)
+![MaterialUI](https://img.shields.io/badge/-Material_UI-343942?style=for-the-badge&logo=materialui)
+![AntD](https://img.shields.io/badge/-AntD-343942?style=for-the-badge&logo=antdesign)
+![Styled Components](https://img.shields.io/badge/-Styled_Components-343942?style=for-the-badge&logo=styled-components)
 ---
 
 ## ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api/?username=mshabunin97\&show_icons=true\&title_color=fff\&icon_color=FD8AC9\&text_color=F7F7F7\&bg_color=343942)
