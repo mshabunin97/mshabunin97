@@ -1,6 +1,6 @@
 # 🧑‍💻 *Front-End Developer*
 
-#### 👋 Привет! Меня зовут _**Андрей**_, и я _**web-разработчик**_, специализирующийся на _**PERN**_ стеке. С большим интересом подхожу к созданию интуитивно понятных и динамичных пользовательских интерфейсов.
+#### 👋 Привет! Меня зовут _**Макс**_, и я _**web-разработчик**_. С большим интересом подхожу к созданию интуитивно понятных и динамичных пользовательских интерфейсов.
 
 
 ### 💡 Интересы:
@@ -24,6 +24,7 @@
 ![RTKQUERY](https://img.shields.io/badge/-RTK_QUERY-343942?style=for-the-badge&logo=redux)
 ![WEBPACK](https://img.shields.io/badge/-WEBPACK-343942?style=for-the-badge&logo=webpack)
 ![JEST](https://img.shields.io/badge/-JEST-343942?style=for-the-badge&logo=jest)
+![NODEJS](https://img.shields.io/badge/-NODEJS-343942?style=for-the-badge&logo=NODEJS)
 ---
 
 ## ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api/?username=mshabunin97\&show_icons=true\&title_color=fff\&icon_color=FD8AC9\&text_color=F7F7F7\&bg_color=343942)
